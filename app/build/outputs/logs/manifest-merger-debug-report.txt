@@ -1,0 +1,199 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/quanganh/Downloads/Weather/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/quanganh/Downloads/Weather/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/quanganh/Downloads/Weather/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/quanganh/Downloads/Weather/app/src/main/AndroidManifest.xml:2:1-34:12
+MERGED from [com.android.support:design:28.0.0] /Users/quanganh/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/019c771adcbab5a987e1e3b80f45c838/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/quanganh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/7d600adcd24544e0bd85c3fe0aaf0e20/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/quanganh/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/7cf09576d06d20a4d1f05d1c1891683a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/quanganh/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/50249c9985f40dd8ecbff7415a879775/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/quanganh/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/d3c80fe4a040746390fd017361b1bf76/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/quanganh/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/73c0608a67c658c017a76d9da66a0d85/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/quanganh/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/02dccc868de94aff7f3bcd2573b6b3ae/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/quanganh/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/b408ff43d0efd782b9388b456047f105/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /Users/quanganh/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/e53e7c877eac37141998a46907315016/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/quanganh/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/826049905b8243db9909205742822517/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/quanganh/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/f17c8e4de9f5187645386d5e3c57424a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/quanganh/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/c39db6c41c483f1c1900b11197854612/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/quanganh/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/b06fe10cbb153a519f2a1072743d3b20/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/quanganh/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/ec22a6120bd6664208cd636981ef0d8f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/quanganh/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/f655728413f03b81dce716f9489637ac/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/quanganh/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/40ab580e7115d149a8db6dca0d55dd7d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/quanganh/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/12813a89c8c37dbbddc44bfb99a17c2f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/quanganh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/afec06fefccf457866f31e02b0796b3e/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/quanganh/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/330187857bf57afcbc23666fa0803f53/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/quanganh/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/78e06258a4ba6f433b5a27c6bd77e739/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/quanganh/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/98bdf628fa10632e4915ce6ad8f58b21/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/quanganh/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/79c44d1ffa051f1edb79bf2bd25bde5a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/quanganh/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/74e76b0c35acf5a1c1f7eb04f536519f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/quanganh/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/ece8a6632afb02868d8dea3057d230ed/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/quanganh/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/f6aa34c0a36cdeb7d7501cecdba7adf7/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/quanganh/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/a146b60a6253a7e216c084804944401f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/quanganh/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/96c31849c063c13682c275a4234231c3/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/quanganh/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/7b0c13c2748689a2350342a1952c9a46/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/quanganh/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/ac66701bc4973c38f1b681e86f6d84e3/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/quanganh/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/e4e187fe98088e78a4299e2727deb48c/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/quanganh/Downloads/Weather/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/quanganh/Downloads/Weather/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/quanganh/Downloads/Weather/app/src/main/AndroidManifest.xml:2:1-34:12
+	package
+		ADDED from /Users/quanganh/Downloads/Weather/app/src/main/AndroidManifest.xml:4:5-42
+		INJECTED from /Users/quanganh/Downloads/Weather/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/quanganh/Downloads/Weather/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/quanganh/Downloads/Weather/app/src/main/AndroidManifest.xml
+		ADDED from /Users/quanganh/Downloads/Weather/app/src/main/AndroidManifest.xml:2:1-34:12
+		INJECTED from /Users/quanganh/Downloads/Weather/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/quanganh/Downloads/Weather/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/quanganh/Downloads/Weather/app/src/main/AndroidManifest.xml
+		ADDED from /Users/quanganh/Downloads/Weather/app/src/main/AndroidManifest.xml:2:1-34:12
+		INJECTED from /Users/quanganh/Downloads/Weather/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/quanganh/Downloads/Weather/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from /Users/quanganh/Downloads/Weather/app/src/main/AndroidManifest.xml:6:5-76
+	android:name
+		ADDED from /Users/quanganh/Downloads/Weather/app/src/main/AndroidManifest.xml:6:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/quanganh/Downloads/Weather/app/src/main/AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from /Users/quanganh/Downloads/Weather/app/src/main/AndroidManifest.xml:7:22-76
+uses-permission#android.permission.INTERNET
+ADDED from /Users/quanganh/Downloads/Weather/app/src/main/AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from /Users/quanganh/Downloads/Weather/app/src/main/AndroidManifest.xml:8:22-64
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/quanganh/Downloads/Weather/app/src/main/AndroidManifest.xml:9:5-76
+	android:name
+		ADDED from /Users/quanganh/Downloads/Weather/app/src/main/AndroidManifest.xml:9:22-73
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/quanganh/Downloads/Weather/app/src/main/AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from /Users/quanganh/Downloads/Weather/app/src/main/AndroidManifest.xml:10:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/quanganh/Downloads/Weather/app/src/main/AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from /Users/quanganh/Downloads/Weather/app/src/main/AndroidManifest.xml:11:22-78
+application
+ADDED from /Users/quanganh/Downloads/Weather/app/src/main/AndroidManifest.xml:13:5-32:19
+MERGED from [com.android.support:design:28.0.0] /Users/quanganh/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/019c771adcbab5a987e1e3b80f45c838/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /Users/quanganh/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/019c771adcbab5a987e1e3b80f45c838/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/quanganh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/afec06fefccf457866f31e02b0796b3e/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/quanganh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/afec06fefccf457866f31e02b0796b3e/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/quanganh/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/330187857bf57afcbc23666fa0803f53/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/quanganh/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/330187857bf57afcbc23666fa0803f53/AndroidManifest.xml:22:5-23:19
+	android:screenOrientation
+		ADDED from /Users/quanganh/Downloads/Weather/app/src/main/AndroidManifest.xml:17:9-45
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/quanganh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/afec06fefccf457866f31e02b0796b3e/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/quanganh/Downloads/Weather/app/src/main/AndroidManifest.xml:18:9-35
+	android:label
+		ADDED from /Users/quanganh/Downloads/Weather/app/src/main/AndroidManifest.xml:16:9-41
+	tools:ignore
+		ADDED from /Users/quanganh/Downloads/Weather/app/src/main/AndroidManifest.xml:20:9-48
+	android:icon
+		ADDED from /Users/quanganh/Downloads/Weather/app/src/main/AndroidManifest.xml:15:9-42
+	android:allowBackup
+		ADDED from /Users/quanganh/Downloads/Weather/app/src/main/AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from /Users/quanganh/Downloads/Weather/app/src/main/AndroidManifest.xml:19:9-40
+activity#com.android.duongdb.weather.activities.MainActivity
+ADDED from /Users/quanganh/Downloads/Weather/app/src/main/AndroidManifest.xml:21:9-30:20
+	android:label
+		ADDED from /Users/quanganh/Downloads/Weather/app/src/main/AndroidManifest.xml:23:13-45
+	android:theme
+		ADDED from /Users/quanganh/Downloads/Weather/app/src/main/AndroidManifest.xml:24:13-44
+	android:name
+		ADDED from /Users/quanganh/Downloads/Weather/app/src/main/AndroidManifest.xml:22:13-79
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/quanganh/Downloads/Weather/app/src/main/AndroidManifest.xml:25:13-29:29
+action#android.intent.action.MAIN
+ADDED from /Users/quanganh/Downloads/Weather/app/src/main/AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from /Users/quanganh/Downloads/Weather/app/src/main/AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/quanganh/Downloads/Weather/app/src/main/AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from /Users/quanganh/Downloads/Weather/app/src/main/AndroidManifest.xml:28:27-74
+activity#com.android.duongdb.weather.activities.HistoryActivity
+ADDED from /Users/quanganh/Downloads/Weather/app/src/main/AndroidManifest.xml:31:9-91
+	android:name
+		ADDED from /Users/quanganh/Downloads/Weather/app/src/main/AndroidManifest.xml:31:19-88
+uses-sdk
+INJECTED from /Users/quanganh/Downloads/Weather/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/quanganh/Downloads/Weather/app/src/main/AndroidManifest.xml
+INJECTED from /Users/quanganh/Downloads/Weather/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] /Users/quanganh/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/019c771adcbab5a987e1e3b80f45c838/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /Users/quanganh/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/019c771adcbab5a987e1e3b80f45c838/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/quanganh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/7d600adcd24544e0bd85c3fe0aaf0e20/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/quanganh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/7d600adcd24544e0bd85c3fe0aaf0e20/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/quanganh/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/7cf09576d06d20a4d1f05d1c1891683a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/quanganh/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/7cf09576d06d20a4d1f05d1c1891683a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/quanganh/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/50249c9985f40dd8ecbff7415a879775/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/quanganh/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/50249c9985f40dd8ecbff7415a879775/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/quanganh/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/d3c80fe4a040746390fd017361b1bf76/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/quanganh/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/d3c80fe4a040746390fd017361b1bf76/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/quanganh/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/73c0608a67c658c017a76d9da66a0d85/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/quanganh/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/73c0608a67c658c017a76d9da66a0d85/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/quanganh/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/02dccc868de94aff7f3bcd2573b6b3ae/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/quanganh/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/02dccc868de94aff7f3bcd2573b6b3ae/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/quanganh/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/b408ff43d0efd782b9388b456047f105/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/quanganh/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/b408ff43d0efd782b9388b456047f105/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/quanganh/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/e53e7c877eac37141998a46907315016/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/quanganh/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/e53e7c877eac37141998a46907315016/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/quanganh/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/826049905b8243db9909205742822517/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/quanganh/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/826049905b8243db9909205742822517/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/quanganh/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/f17c8e4de9f5187645386d5e3c57424a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/quanganh/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/f17c8e4de9f5187645386d5e3c57424a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/quanganh/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/c39db6c41c483f1c1900b11197854612/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/quanganh/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/c39db6c41c483f1c1900b11197854612/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/quanganh/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/b06fe10cbb153a519f2a1072743d3b20/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/quanganh/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/b06fe10cbb153a519f2a1072743d3b20/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/quanganh/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/ec22a6120bd6664208cd636981ef0d8f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/quanganh/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/ec22a6120bd6664208cd636981ef0d8f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/quanganh/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/f655728413f03b81dce716f9489637ac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/quanganh/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/f655728413f03b81dce716f9489637ac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/quanganh/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/40ab580e7115d149a8db6dca0d55dd7d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/quanganh/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/40ab580e7115d149a8db6dca0d55dd7d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/quanganh/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/12813a89c8c37dbbddc44bfb99a17c2f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/quanganh/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/12813a89c8c37dbbddc44bfb99a17c2f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/quanganh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/afec06fefccf457866f31e02b0796b3e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/quanganh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/afec06fefccf457866f31e02b0796b3e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/quanganh/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/330187857bf57afcbc23666fa0803f53/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/quanganh/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/330187857bf57afcbc23666fa0803f53/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/quanganh/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/78e06258a4ba6f433b5a27c6bd77e739/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/quanganh/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/78e06258a4ba6f433b5a27c6bd77e739/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/quanganh/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/98bdf628fa10632e4915ce6ad8f58b21/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/quanganh/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/98bdf628fa10632e4915ce6ad8f58b21/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/quanganh/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/79c44d1ffa051f1edb79bf2bd25bde5a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/quanganh/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/79c44d1ffa051f1edb79bf2bd25bde5a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/quanganh/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/74e76b0c35acf5a1c1f7eb04f536519f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/quanganh/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/74e76b0c35acf5a1c1f7eb04f536519f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/quanganh/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/ece8a6632afb02868d8dea3057d230ed/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/quanganh/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/ece8a6632afb02868d8dea3057d230ed/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/quanganh/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/f6aa34c0a36cdeb7d7501cecdba7adf7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/quanganh/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/f6aa34c0a36cdeb7d7501cecdba7adf7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/quanganh/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/a146b60a6253a7e216c084804944401f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/quanganh/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/a146b60a6253a7e216c084804944401f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/quanganh/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/96c31849c063c13682c275a4234231c3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/quanganh/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/96c31849c063c13682c275a4234231c3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/quanganh/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/7b0c13c2748689a2350342a1952c9a46/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/quanganh/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/7b0c13c2748689a2350342a1952c9a46/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/quanganh/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/ac66701bc4973c38f1b681e86f6d84e3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/quanganh/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/ac66701bc4973c38f1b681e86f6d84e3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/quanganh/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/e4e187fe98088e78a4299e2727deb48c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/quanganh/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/e4e187fe98088e78a4299e2727deb48c/AndroidManifest.xml:20:5-44
+INJECTED from /Users/quanganh/Downloads/Weather/app/src/main/AndroidManifest.xml
+INJECTED from /Users/quanganh/Downloads/Weather/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/quanganh/Downloads/Weather/app/src/main/AndroidManifest.xml
+		ADDED from /Users/quanganh/Downloads/Weather/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/quanganh/Downloads/Weather/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/quanganh/Downloads/Weather/app/src/main/AndroidManifest.xml
+		ADDED from /Users/quanganh/Downloads/Weather/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/quanganh/Downloads/Weather/app/src/main/AndroidManifest.xml
